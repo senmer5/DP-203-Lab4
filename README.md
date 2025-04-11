@@ -109,7 +109,7 @@ Throughout this lab, I learned how to:
     - If pre-existing data is available, use SQL queries to directly create tables from that data and perform analysis.
   
    
-## screechot
+## Screenshots
 
 ![1](https://github.com/user-attachments/assets/66d798b3-9118-4075-be25-5a094c321789)
 
