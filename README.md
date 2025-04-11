@@ -107,4 +107,21 @@ Throughout this lab, I learned how to:
 
 6. **Use Existing Data**:
     - If pre-existing data is available, use SQL queries to directly create tables from that data and perform analysis.
+  
+   
+## screechot
+
+![1](https://github.com/user-attachments/assets/66d798b3-9118-4075-be25-5a094c321789)
+
+![2](https://github.com/user-attachments/assets/e9b25515-6a2a-4010-86db-41d7f41b60b0)
+
+![3](https://github.com/user-attachments/assets/b8400be6-28c0-4f64-a68a-0025d5371339)
+
+<img width="1335" alt="4" src="https://github.com/user-attachments/assets/04eaafe6-6407-4f0c-8f54-f3c4643b035d" />
+
+<img width="757" alt="5" src="https://github.com/user-attachments/assets/04019005-354c-40fc-8d89-dccd945e402f" />
+
+<img width="850" alt="6" src="https://github.com/user-attachments/assets/49719134-2ff7-4305-a460-3926819e811c" />
+
+<img width="757" alt="7" src="https://github.com/user-attachments/assets/fc45c605-1f99-4e00-827d-8a2916aca58b" />
 
